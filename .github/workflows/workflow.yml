@@ -16,7 +16,7 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           body: |
             ## タイトル
-            ### 内容2
+            ### 内容1
             - hogehoge
             - fugafuga
             ### 内容2
