@@ -15,4 +15,9 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            This issue is available for anyone to work on. **Make sure to reference this issue in your pull request.** :sparkles: Thank you for your contribution! :sparkles:
+            ## タイトル
+            ### 内容2
+            - hogehoge
+            - fugafuga
+            ### 内容2
+            改行を含めたコメントはできるの？？
